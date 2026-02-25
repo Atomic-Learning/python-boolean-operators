@@ -8,11 +8,10 @@
   "tags": [
     "python"
   ],
-  "duration": 5,
+  "duration": 4,
   "prerequisites": [
     "python-booleans",
-    "python-comparison-operators",
-    "python-in-operator-membership"
+    "python-comparison-operators"
   ],
   "related": [
     "exercise-python-boolean-operator-prediction",
