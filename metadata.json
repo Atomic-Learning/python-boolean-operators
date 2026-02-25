@@ -8,7 +8,7 @@
   "tags": [
     "python"
   ],
-  "duration": 18,
+  "duration": 5,
   "prerequisites": [
     "python-booleans",
     "python-comparison-operators",
