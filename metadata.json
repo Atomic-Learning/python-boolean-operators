@@ -1,0 +1,22 @@
+{
+  "title": "Python: Boolean Operators",
+  "slug": "python-boolean-operators",
+  "description": "Combining boolean values with not, and, and or operators in Python, including precedence and grouping with parentheses.",
+  "authors": [
+    "chris-cooling"
+  ],
+  "tags": [
+    "python"
+  ],
+  "duration": 18,
+  "prerequisites": [
+    "programming-boolean-operators",
+    "python-booleans",
+    "python-comparison-operators",
+    "python-in-operator-membership"
+  ],
+  "related": [
+    "exercise-python-boolean-operator-prediction",
+    "python-conditionals-if-elif-else"
+  ]
+}
