@@ -10,7 +10,6 @@
   ],
   "duration": 5,
   "prerequisites": [
-    "python-booleans",
     "python-comparison-operators",
     "python-in-operator-membership"
   ],
