@@ -14,8 +14,9 @@
     "python-comparison-operators"
   ],
   "related": [
-    "exercise-python-boolean-operator-prediction",
     "python-conditionals-if-elif-else",
-    "programming-operator-precedence-comparison-boolean"
+    "programming-operator-precedence-comparison-boolean",
+    "exercise-python-fizzbuzz",
+    "exercise-python-boolean-operator-prediction"
   ]
 }
